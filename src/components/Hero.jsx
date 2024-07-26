@@ -19,7 +19,7 @@ const Hero = () => {
               initial="hidden"
               animate="visible"
               transition={{ duration: 0.5, delay: 0 }}
-              className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-6xl"
+              className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-6xl text-center"
             >
               M. Hamdan Yusuf
             </motion.h1>
